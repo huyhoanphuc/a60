@@ -88,4 +88,3 @@ end
 
 -- Run the created entity
 Spawner.runEntity(entityTable)
-end)
