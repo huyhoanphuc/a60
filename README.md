@@ -53,7 +53,7 @@ local entity = Creator.createEntity({
             },
         },
     },
-    CustomDialog = {"You died to Rebound...", "It appears at the next door and has a chance to stay there or run back to the latest door.", "He will come back many times after his initial spawn", "so hide every next door until it is safe.."}, -- Custom death message (can be as long as you want)
+    CustomDialog = {"You died to Multi_A-60..."}, -- Custom death message (can be as long as you want)
 })
 
 
